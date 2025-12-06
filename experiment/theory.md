@@ -12,11 +12,11 @@ The soundness test is critically important because unsound cement can cause:
 * Severe compromise of structural durability and serviceability
 * Potential structural failures over time
 
-### CAUSES OF UNSOUNDNESS
+#### CAUSES OF UNSOUNDNESS
 
 Unsoundness in cement primarily results from:
 
-#### a) Excess Free Lime (CaO)
+##### a) Excess Free Lime (CaO)
 
 When limestone is insufficiently burnt during clinker formation, unreacted free lime remains. This free lime hydrates very slowly after the cement has hardened, causing expansion.
 
@@ -24,7 +24,7 @@ When limestone is insufficiently burnt during clinker formation, unreacted free 
 
 This delayed hydration is accompanied by significant volume increase (approximately 98% expansion).
 
-#### b) Excess Magnesia (MgO)
+##### b) Excess Magnesia (MgO)
 
 Similar to free lime, excess magnesia hydrates slowly after hardening:
 
@@ -32,11 +32,11 @@ MgO + H₂O → Mg(OH)₂
 
 The permissible limit of MgO in cement is typically 5-6% by mass.
 
-#### c) Excess Calcium Sulphate (Gypsum)
+##### c) Excess Calcium Sulphate (Gypsum)
 
 Added as a retarder during grinding, excess gypsum can react with tricalcium aluminate (C₃A) to form ettringite, causing expansion.
 
-### TESTING PRINCIPLE
+#### TESTING PRINCIPLE
 
 Since the expansion due to unsoundness occurs very slowly under normal atmospheric conditions and may not be evident for several months or years, accelerated testing methods are employed to detect this tendency in a short time period. The test accelerates the hydration of free lime and magnesia by:
 
@@ -44,7 +44,7 @@ Since the expansion due to unsoundness occurs very slowly under normal atmospher
 * Providing adequate moisture
 * Creating conditions that promote rapid expansion
 
-### TEST METHODS
+#### TEST METHODS
 
 Two standard methods are prescribed:
 
@@ -62,7 +62,7 @@ This method involves:
 
 **Acceptance Criteria:** As per IS 8112:2013 for OPC 43 Grade, expansion shall not exceed 10 mm.
 
-#### Autoclave Method
+##### Autoclave Method
 
 This method involves:
 
